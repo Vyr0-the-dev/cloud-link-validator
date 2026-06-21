@@ -52,19 +52,19 @@ pip install -r requirements.txt
 
 ```bash
 # Temel: linkleri ayıkla + kontrol et, başlıklı txt üret
-python yandex_checker.py liste.txt
+python cloud_link_validator.py liste.txt
 
 # İçerik ağacını terminalde göster ve 2 seviye derine in
-python yandex_checker.py liste.txt --contents --depth 2
+python cloud_link_validator.py liste.txt --contents --depth 2
 
 # Tüm rapor formatlarını üret (json + csv + html + md)
-python yandex_checker.py liste.txt --export all
+python cloud_link_validator.py liste.txt --export all
 
 # Sadece ayıkla (ağ kontrolü yapma)
-python yandex_checker.py liste.txt --no-check
+python cloud_link_validator.py liste.txt --no-check
 
 # Önbelleği yok say, hepsini yeniden kontrol et
-python yandex_checker.py liste.txt --refresh
+python cloud_link_validator.py liste.txt --refresh
 ```
 
 ### Komut satırı seçenekleri
