@@ -15,6 +15,10 @@ Yandex Disk · Google Drive · MEGA · Dropbox · MediaFire
 
 ---
 
+https://github.com/user-attachments/assets/1826ec39-0bf0-4863-b13b-4e5fe83debad
+
+---
+
 ## ✨ Özellikler
 
 - 🔎 **Akıllı ayıklama** — Facebook `l.php?u=` yönlendirmeleri, markdown linkleri ve yüzde-kodlanmış (`%3A%2F%2F`) URL'lerin içinden gerçek linkleri çıkarır.
